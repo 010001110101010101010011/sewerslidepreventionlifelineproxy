@@ -1,0 +1,103 @@
+<h1>dont press random stuff on the ad links it wont be fun :)</h1>
+<h4>If it asks for notifications just press block and wait for the count down by the top right to finish</h4>
+<h3 id="status"></h3>
+<h2>LINKS DONT WORK WITHOUT INSTALLING THE APP =======></h2>
+<h3>The links will be blocked unless you use the app</h3>
+<h4>Only use app dont use the browser version, it will flood your history, if links open in your browser close them right away<h4>
+<p><List of problems:/p>
+<br>
+<p>only discord works right now</p>
+<title>Unblocker</title>
+<link rel="icon" href="https://media.discordapp.net/attachments/897940060064845844/927068989602009108/proxy.png?width=466&height=468">
+<script type='text/javascript'
+title = ".....Website Made By GUS#2893 do not sell";
+position = 0;
+function scrolltitle() {
+    document.title = title.substring(position, title.length) + title.substring(0, position); 
+    position++;
+    if (position > title.length) position = 0;
+    titleScroll = window.setTimeout(scrolltitle,100);
+}
+scrolltitle();
+</script>
+<script>
+buttonInstall.addEventListener('click', async () => {
+  // Hide the app provided install promotion
+  hideInstallPromotion();
+  // Show the install prompt
+  deferredPrompt.prompt();
+  // Wait for the user to respond to the prompt
+  const { outcome } = await deferredPrompt.userChoice;
+  // Optionally, send analytics event with outcome of user choice
+  console.log(`User response to the install prompt: ${outcome}`);
+  // We've used the prompt, and can't use it again, throw it away
+  deferredPrompt = null;
+});
+</script>
+
+
+<style>
+html { 
+  background: url(https://media.discordapp.net/attachments/897940060064845844/927080368094449784/unknown.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.a_class {
+  
+  font-size: 100px
+  
+  text-color: red;
+  } 	
+
+</style>
+<a href="https://2no.co/2UBsi6.js">Discord</a>
+<p>^ Press the skip button after 5 seconds on this page to access discord</p>
+<br>
+<p>Soundboards</p>
+
+
+<a href="https://bit.ly/3eY2snP" target="popup" onclick="window.open('https://bit.ly/3eY2snP','name','width=1000,height=2000')">
+My Instants</a>
+
+<a href="https://bit.ly/3HsbDsB" target="popup" onclick="window.open('https://bit.ly/3HsbDsB','name','width=1000,height=2000')">
+Sound Buttons</a>
+
+<a href="http://fumacrom.com/3NvOl">Memesoundboard.com</a>
+
+<br>
+<p>Disquised Web Browser</p>
+
+<a href="http://fumacrom.com/3Nvqi">Bing</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
